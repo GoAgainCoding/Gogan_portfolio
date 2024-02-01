@@ -1,9 +1,13 @@
-EGGSHELL=#f0eaae;
-head {
-	background-color: EGGSHELL;
+:root {
+  --EGGSHELL: #f0eaae;
+}
+
+header {
+	background-color: var(--EGGSHELL);
+	
 }
 body {
-	background-color: EGGSHELL;
+	background-color:var(--EGGSHELL);
 	opacity:0.5
 }
 /*
@@ -12,6 +16,6 @@ h1 {
 	margin-left: 20px;
 }*/
 footer{
-	background-color: EGGSHELL;
+	background-color: var(--EGGSHELL);
 	opacity:0.7
 }
