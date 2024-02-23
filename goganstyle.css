@@ -1,15 +1,20 @@
 header {
 	background-color: #f0eaaeff;
-	
+	text-align: center;
+	font-family: 'Courier New', monospace;
 }
 body {
 	background-color: #f0eaae6f;
+	font-family: 'Courier New', monospace;
 }
-/*
 h1 {
 	color: navy;
-	margin-left: 20px;
-}*/
+	font-weight: bold;
+}
+p {
+	color: navy;
+}
 footer{
 	background-color: #f0eaaeaf;
+	font-family: 'Courier New', monospace;
 }
