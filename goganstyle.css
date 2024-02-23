@@ -8,13 +8,17 @@ body {
 	font-family: 'Courier New', monospace;
 }
 h1 {
-	color: navy;
+	color: #000060
 	font-weight: bold;
 }
+h2 {
+	color: #000020
+}
 p {
-	color: navy;
+		color: #000020
 }
 footer{
 	background-color: #f0eaaeaf;
 	font-family: 'Courier New', monospace;
+		color: #000020
 }
